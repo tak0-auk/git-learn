@@ -7,10 +7,12 @@ git init
 ~~~
 
 ~~~
-git commit -m massage
+git commit -m message
 ~~~
 
+~~~
 git clone [repository PATH] [new repository PATH]
+~~~
 
 ブランチの作成とチェックアウトを行う
 ~~~

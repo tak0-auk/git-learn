@@ -25,12 +25,17 @@ or
 ~~~
 git checkout -b <branch>
 ~~~
++
+~~~
+git push origin [branch_name]
+~~~
 
 リモートの最新状態を取得
 ~~~
 git fetch -p
 ~~~
 
+設定メモ
 ~~~
 git config --global --add pull.ff only
 
